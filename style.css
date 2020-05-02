@@ -1,0 +1,31 @@
+.container {
+    margin: 0em;
+    padding: 0em;
+
+    margin-top: 5em;
+}
+form {
+    margin-left: 61%;
+    transform: translateX(-50%);
+}
+
+.resultado{
+    position: relative;
+    top: 70px;
+    right: 185px;
+}
+.botao {
+    position: relative;
+    top: 70px;
+    right: 200px;
+}
+
+/* footer */
+footer {
+    margin-top: 150px;
+    margin-left: 50px;
+}
+footer a,footer a:hover {
+    color: #000;
+}
+
